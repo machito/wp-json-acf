@@ -1,2 +1,4 @@
 # wp-json-acf
-WP JSON API for Advanced Custom Fields
+Custom WordPress JSON API
+
+- Support for Advanced Custom Fields
